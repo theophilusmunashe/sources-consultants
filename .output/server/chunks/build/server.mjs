@@ -643,7 +643,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./about-Cf-IzaDC.mjs').then((m) => m.default || m)
+    component: () => import('./about-BJjuSJkm.mjs').then((m) => m.default || m)
   },
   {
     name: "blog-details",
@@ -667,7 +667,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./carousel-slider-D1Ch62Cn.mjs').then((m) => m.default || m)
+    component: () => import('./carousel-slider-CebacPYz.mjs').then((m) => m.default || m)
   },
   {
     name: "contact",
@@ -795,7 +795,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0 ,
-    component: () => import('./project2-CqZ1A0Us.mjs').then((m) => m.default || m)
+    component: () => import('./project2-DmyJgW_U.mjs').then((m) => m.default || m)
   },
   {
     name: "project3",

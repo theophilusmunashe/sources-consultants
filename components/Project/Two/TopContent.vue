@@ -7,16 +7,16 @@
         </div>
         <div class="col-lg-7">
           <div class="text">
-            <h5 class="mb-30 fw-400 line-height-40">Stanbic Bank enlisted the expertise of Sources Consultants to revitalize 
+            <h5 class="mb-30 fw-400 line-height-40">NBS Bank enlisted the expertise of Sources Consultants to revitalize 
               its brand identity and enhance its market positioning. The objective was to develop a
                cohesive and compelling branding strategy that would resonate with existing customers,
-                attract new clients, and reinforce Stanbic Bank's reputation as a leading financial 
+                attract new clients, and reinforce NBS Bank's reputation as a leading financial 
                 institution in the region.</h5>
             <p class="fz-18">Objective:
 
-              To create a unified and recognizable brand identity for Stanbic Bank.
+              To create a unified and recognizable brand identity for NBS Bank.
               To strengthen brand loyalty and customer trust.
-              To differentiate Stanbic Bank from competitors through a unique value proposition.
+              To differentiate NBS Bank from competitors through a unique value proposition.
               To enhance the bank’s visibility and engagement across multiple channels.</p>
           </div>
           <div class="accordion bord mt-100">
@@ -48,7 +48,7 @@ const accordionData = ref([
   },
   {
     title: 'Brand Strategy Development',
-    content: 'Defined the core brand values, mission, and vision aligned with Stanbic Bank’s strategic goals.',
+    content: 'Defined the core brand values, mission, and vision aligned with NBS Bank’s strategic goals.',
     delay: '.3s'
   },
   {

@@ -19,9 +19,14 @@
   },
   {
     "id": 4,
+    "title": "Marshal Kapueni",
+    "role": "Sales & Marketing",
+    "image": "/assets/imgs/team/t5.jpeg"
+  },
+  {
+    "id": 5,
     "title": "Theophilus Maposa",
     "role": "Developer",
     "image": "/assets/imgs/team/t4.jpg"
   }
-  
 ]

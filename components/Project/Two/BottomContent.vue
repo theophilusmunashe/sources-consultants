@@ -31,11 +31,11 @@
               </div>
               <div class="col-lg-6 col-md-9">
                 <div class="text">
-                  <p>"The rebranding initiative with Sources Consultants has been transformative for Stanbic Bank. 
+                  <p>"The rebranding initiative with Sources Consultants has been transformative for NBS Bank. 
                     Their strategic insights and creative expertise have revitalized our brand, making it more 
                     ppealing and relevant to our customers. The entire process was seamless, and the results speak
                      for themselves. We are thrilled with the outcome and look forward to our continued partnership."
-                    — Sarah Moyo, Head of Marketing, Stanbic Bank</p>
+                    — Sarah Moyo, Head of Marketing, NBS Bank</p>
                 </div>
               </div>
             </div>

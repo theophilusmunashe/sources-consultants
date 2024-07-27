@@ -5,9 +5,9 @@
         <div class="col-lg-6 valign">
           <div class="full-width mb-30">
             <h1 class="fz-60">Project 2</h1>
-            <p>The comprehensive branding strategy developed for Stanbic Bank by Sources Consultants  successfully rejuvenated the bank’s image, 
+            <p>The comprehensive branding strategy developed for NBS Bank by Sources Consultants  successfully rejuvenated the bank’s image, 
               creating a strong and cohesive brand presence in the market. 
-              Our strategic approach and creative execution have positioned Stanbic Bank for continued 
+              Our strategic approach and creative execution have positioned NBS Bank for continued 
               growth and success. Sources Consultants is proud to be a part of this remarkable transformation journey.</p>
           </div>
         </div>
@@ -17,7 +17,7 @@
               <div class="col-md-6">
                 <div class="item mb-30">
                   <span class="opacity-8 mb-5">Client :</span>
-                  <h6>Stanbic Bank</h6>
+                  <h6>NBS Bank</h6>
                 </div>
               </div>
               <div class="col-md-6">

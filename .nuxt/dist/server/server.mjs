@@ -565,7 +565,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$l == null ? void 0 : __nuxt_page_meta$l.redirect,
-    component: () => import("./_nuxt/about-Cf-IzaDC.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/about-BJjuSJkm.js").then((m) => m.default || m)
   },
   {
     name: "blog-details",
@@ -589,7 +589,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$i == null ? void 0 : __nuxt_page_meta$i.redirect,
-    component: () => import("./_nuxt/carousel-slider-D1Ch62Cn.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/carousel-slider-CebacPYz.js").then((m) => m.default || m)
   },
   {
     name: "contact",
@@ -717,7 +717,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: __nuxt_page_meta$2 == null ? void 0 : __nuxt_page_meta$2.redirect,
-    component: () => import("./_nuxt/project2-CqZ1A0Us.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/project2-DmyJgW_U.js").then((m) => m.default || m)
   },
   {
     name: "project3",
